@@ -1,12 +1,12 @@
 body {
-    background-color: hsl(212, 19%, 60%);
+    background-color: hsl(212, 13%, 77%);
     font-family: 'Outfit', sans-serif;
     margin: 0;
   }
   
   .code {
     width: 300px;
-    margin: 100px auto; /* This centers horizontally */
+    margin: 200px auto; /* This centers horizontally */
     padding: 20px;
     border-radius: 15px;
     background-color: rgb(255, 255, 255);
